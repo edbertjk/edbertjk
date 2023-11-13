@@ -1,13 +1,13 @@
 <h1 align="center">Helloww 👋, I'm iVertX</h1>
-<h3 align="center">I am passioned on Backend (Laravel) And Frontend (Bootstrap & Tailwind CSS)</h3>
+<h3 align="center">I am passioned on Backend (Ci) And Frontend (Bootstrap & Tailwind CSS)</h3>
 
 - 🔭 I’m currently working on **Growtopia Private Server**
 
-- 🌱 I’m currently learning **C++ & Python**
+- 🌱 I’m currently learning **C++ & Flutter**
 
-- 👯 I’m looking to collaborate on **Growtopia Private Server**
+- 👯 I’m looking to collaborate on **Maple Team**
 
-- 💬 Ask me about **Express**
+- 💬 Ask me about **Development**
 
 - ⚡ Fun fact **I am 15 Years Old**
 
