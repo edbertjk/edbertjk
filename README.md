@@ -1,5 +1,9 @@
 # 💫 About Me:
-# 💫 About Me:<br>- 🔭 I’m currently working on **Mobile Development**<br>- 💬 Ask me about **Mobile Development**<br>- 📫 How to reach me **qeuans12@gmail.com**
+- 🔭 I’m currently working on **Mobile Development**
+
+- 💬 Ask me about **Mobile Development**
+
+- 📫 How to reach me **qeuans12@gmail.com**
 
 
 # 💻 Tech Stack:
