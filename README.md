@@ -8,8 +8,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=edbertjk&row=1&theme=darkhub"/>
 <br><br>
 
-## 🔰 List of Language, Framework, Tools, OS, Cloud Service, Device, Platform,  and others i used
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+## 🔰 My Programming Language List
+![HTML5](https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
