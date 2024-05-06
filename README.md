@@ -18,6 +18,6 @@
 <br><br>
 
 ## 📶 My GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edbertjk)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=edbertjk&show_icons=true&theme=cobalt)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edbertjk)](https://github.com/anuraghazra/github-readme-stats)
