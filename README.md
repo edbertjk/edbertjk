@@ -19,6 +19,4 @@
 
 ## 📶 My GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=edbertjk&show_icons=true&theme=cobalt)
-![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=edbertjk)
-## 💽 My Top Languages from my repositories
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edbertjk)](https://github.com/anuraghazra/github-readme-stats)
