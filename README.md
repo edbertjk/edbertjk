@@ -6,7 +6,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=edbertejk)
 [![Linkedin: Edbert Julian Karsten](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edbert-julian-karsten-8975a42a4/)](https://www.linkedin.com/in/edbert-julian-karsten-8975a42a4/)
-[![GitHub followers](https://img.shields.io/github/followers/edbertjk?label=Follow&style=social
+[![GitHub followers](https://img.shields.io/github/followers/edbertjk?label=Follow&style=social)
 
 ### 📫 Like to meet me?
 
