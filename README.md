@@ -11,4 +11,4 @@
 ### 📫 Like to meet me?
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
-<p style="width: 100%"> <a href="https://leetcode.com/Julian_kars/"><img src="https://leetcard.jacoblin.cool/Julian_kars?theme=dark&font=Crimson%20Pro&ext=heatmap&cache=0"/></a> </p>
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=edbertjk&theme=halloween)]
