@@ -10,6 +10,4 @@
 
 ### 📫 Like to meet me?
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
-
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=edbertjk&theme=halloween)](https://github.com/edbertjk)
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agend
